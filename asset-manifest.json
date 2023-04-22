@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Little-Components/static/css/main.17654e45.css",
+    "main.js": "/React-Little-Components/static/js/main.ff9ff6f7.js",
+    "index.html": "/React-Little-Components/index.html",
+    "main.17654e45.css.map": "/React-Little-Components/static/css/main.17654e45.css.map",
+    "main.ff9ff6f7.js.map": "/React-Little-Components/static/js/main.ff9ff6f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17654e45.css",
+    "static/js/main.ff9ff6f7.js"
+  ]
+}
